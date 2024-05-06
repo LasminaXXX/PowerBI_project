@@ -22,4 +22,16 @@ Nesta seção, vamos explorar a maneira de importar dados para o ambiente do Pow
 O Power BI oferece uma ampla variedade de opções para importar dados de diversos tipos, desde bancos de dados SQL até arquivos CSV ou Excel. Essa versatilidade o torna uma ferramenta poderosa para o tratamento e manipulação de dados.
 
 Vejamos o passo a passo da importação dos dados.
+
 ## ETL
+
+Na próxima etapa, iremos realizar o ETL (Extração, Transformação e Carga) dos dados importados para o Power BI. Esta etapa é fundamental para garantir que os dados estejam prontos para serem utilizados na criação de dashboards e análises.
+
+### Extração (Extract)
+Nesta fase, os dados serão extraídos das fontes de origem, como bancos de dados SQL, arquivos CSV, Excel, entre outros. Utilizaremos as ferramentas integradas do Power BI para extrair esses dados de maneira eficiente e confiável.
+
+### Transformação (Transform)
+Após a extração, os dados passarão por um processo de transformação para prepará-los para análise. Isso inclui limpeza de dados, remoção de duplicatas, formatação de dados e outras operações para garantir a consistência e integridade dos dados.
+
+### Carga(Load)
+Por fim, os dados transformados serão carregados no modelo de dados do Power BI, onde poderão ser utilizados para criar dashboards interativos e relatórios dinâmicos. Essa etapa de carga é crucial para garantir que os dados estejam disponíveis para análise em tempo real.
