@@ -35,3 +35,6 @@ Após a extração, os dados passarão por um processo de transformação para p
 
 ### Carga(Load)
 Por fim, os dados transformados serão carregados no modelo de dados do Power BI, onde poderão ser utilizados para criar dashboards interativos e relatórios dinâmicos. Essa etapa de carga é crucial para garantir que os dados estejam disponíveis para análise em tempo real.
+
+## Criação do Dashboard
+
