@@ -9,9 +9,9 @@ Ao longo deste minicurso, você aprenderá como utilizar o Power BI para extrair
 
 Não importa o tamanho do seu negócio, dominar o Power BI pode proporcionar uma vantagem competitiva significativa, capacitando você a tomar decisões mais informadas e ágeis.
 
-## Download
+## Downloads
 ### Power BI
-[Power BI - Download](https://www.microsoft.com/pt-br/p/power-bi/9nblgggzlxn1?rtc=1&activetab=pivot:overviewtab)
+> [Power BI - Download](https://www.microsoft.com/pt-br/p/power-bi/9nblgggzlxn1?rtc=1&activetab=pivot:overviewtab)
 
 ### Arquivos
-[Base de dados + exemplo prático](https://drive.google.com/drive/u/0/folders/17gcXChThPba7Q7_CA0C8C94yQgE_LbSy)
+> [Base de dados + exemplo prático - Download](https://drive.google.com/drive/u/0/folders/17gcXChThPba7Q7_CA0C8C94yQgE_LbSy)
