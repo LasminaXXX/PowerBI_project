@@ -38,3 +38,12 @@ Por fim, os dados transformados serão carregados no modelo de dados do Power BI
 
 ## Criação do Dashboard
 
+Na etapa final, iremos utilizar os dados preparados e carregados durante o processo de ETL para criar dashboards impactantes e informativos no Power BI. Aqui está uma visão geral do que será abordado:
+
+- **Seleção de Visualizações:** No Power BI, temos uma ampla variedade de visualizações disponíveis, como gráficos de barras, linhas, pizza, mapas, entre outros. Vamos selecionar as visualizações mais adequadas para apresentar os dados de forma clara e compreensível.
+
+- **Organização e Layout:** É importante organizar as visualizações de forma lógica e intuitiva no dashboard. Isso inclui a disposição dos elementos, a criação de seções e o uso de cores e fontes para destacar informações importantes.
+
+- **Interatividade:** Uma das vantagens do Power BI é sua capacidade de criar dashboards interativos. Vamos adicionar filtros para permitir que os usuários explore os dados de maneira dinâmica e personalizada.
+
+- **Análise e Insights:** Além de apresentar os dados de forma visualmente atraente, o dashboard também deve fornecer insights acionáveis ​​para os usuários para que os mesmos com;.
