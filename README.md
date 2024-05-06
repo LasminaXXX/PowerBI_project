@@ -23,6 +23,10 @@ O Power BI oferece uma ampla variedade de opções para importar dados de divers
 
 Vejamos o passo a passo da importação dos dados.
 
+### Importar base de dados MariaDB
+na tela inicial do Power BI, clique em **"Obter dados"** e em **"Mais..."**
+![Print opção inicial]()
+
 ## ETL
 
 Na próxima etapa, iremos realizar o ETL (Extração, Transformação e Carga) dos dados importados para o Power BI. Esta etapa é fundamental para garantir que os dados estejam prontos para serem utilizados na criação de dashboards e análises.
