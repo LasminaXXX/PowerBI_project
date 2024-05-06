@@ -15,3 +15,11 @@ Não importa o tamanho do seu negócio, dominar o Power BI pode proporcionar uma
 
 ### Arquivos
 > [Base de dados + exemplo prático - Download](https://drive.google.com/drive/u/0/folders/17gcXChThPba7Q7_CA0C8C94yQgE_LbSy)
+
+## Importação
+Nesta seção, vamos explorar a maneira de importar dados para o ambiente do Power BI, preparando-os para a etapa de ETL na próxima seção e a criação de dashboards.
+
+O Power BI oferece uma ampla variedade de opções para importar dados de diversos tipos, desde bancos de dados SQL até arquivos CSV ou Excel. Essa versatilidade o torna uma ferramenta poderosa para o tratamento e manipulação de dados.
+
+Vejamos o passo a passo da importação dos dados.
+## ETL
